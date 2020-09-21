@@ -785,21 +785,36 @@
 }
 
 @font-face {
+    font-family: 'Porkys';
+    src: url('Porkys.woff2') format('woff2'),
+         url('Porkys.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Porkys";
+    src: url("https://jecassell.github.io/css/fonts/Porkys.eot");
+    src: url("https://jecassell.github.io/css/fonts/Porkys.woff") format("woff"),
+         url("https://jecassell.github.io/css/fonts/Porkys.otf") format("opentype"),
+         url("https://jecassell.github.io/css/fonts/Porkys.svg#filename") format("svg");
+}
+
+@font-face {
     font-family: 'subwayregular';
     src: url('subway-black-webfont.woff2') format('woff2'),
          url('subway-black-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
 
-
 @font-face {
-font-family: "subwayregular";
-src: url("https://jecassell.github.io/css/fonts/subwayregular.eot");
-src: url("https://jecassell.github.io/css/fonts/subwayregular.woff") format("woff"),
-url("https://jecassell.github.io/css/fonts/subwayregular.otf") format("opentype"),
-url("https://jecassell.github.io/css/fonts/subwayregular.svg#filename") format("svg");
+    font-family: "subwayregular";
+    src: url("https://jecassell.github.io/css/fonts/subwayregular.eot");
+    src: url("https://jecassell.github.io/css/fonts/subwayregular.woff") format("woff"),
+         url("https://jecassell.github.io/css/fonts/subwayregular.otf") format("opentype"),
+         url("https://jecassell.github.io/css/fonts/subwayregular.svg#filename") format("svg");
 }
 
 /* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
