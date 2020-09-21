@@ -179,14 +179,14 @@ iframe {
 
 body {
     background: #13181d;
-    font-family:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    /* font-family:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; */
     color: #ffffff;
-    margin: 0;
+    /* margin: 0;
     font-size: 13px;
     font-weight: 400;
     line-height: 1.55;
     -moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
+    -webkit-font-smoothing: antialiased; */
 }
 
 /*End basic styles*/
@@ -206,12 +206,12 @@ h6,
 .h5,
 .h6
  {
-    font-family: 'Dosis', "Helvetica Neue", "Helvetica", Helvetica, Arial,sans-serif;
+    font-family: 'subwayregular';
     margin-bottom:.5rem;
     font-weight: 400;
     position: relative;
     letter-spacing: 2px;
-    
+
 }
 
 h1, .h1{
@@ -330,7 +330,7 @@ form{
 
 em {
     margin-bottom: .5rem;
-    
+
 }
 
 .w-93{

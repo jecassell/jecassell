@@ -66,6 +66,7 @@ Created by : mutationthemes
      -o-animation: spinner-color 8s ease-in-out infinite, spinner-dash 2s ease-in-out infinite;
      stroke-linecap: round;
 }
+
  @keyframes spinner-rotate {
      100% {
          transform: rotate(360deg);
@@ -582,7 +583,7 @@ Created by : mutationthemes
 }
  .block-tracklist .playlist li:before{
      content: "\e8d4";
-     font-family: "fontello";
+     font-family: "subwayregular";
      position: absolute;
      left: 1.0625rem;
      top: 1.3rem;
