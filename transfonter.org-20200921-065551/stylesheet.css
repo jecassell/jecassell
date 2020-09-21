@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'Porky\'s';
-    src: url('Porkys.woff2') format('woff2'),
-        url('Porkys.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
-
