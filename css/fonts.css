@@ -785,7 +785,7 @@
 }
 
 @font-face {
-    font-family: 'Porkys';
+    font-family: 'Porky\'s';
     src: url('Porkys.woff2') format('woff2'),
          url('Porkys.woff') format('woff');
     font-weight: bold;
@@ -794,7 +794,7 @@
 }
 
 @font-face {
-    font-family: "Porkys";
+    font-family: "Porky\'s";
     src: url("https://jecassell.github.io/css/fonts/Porkys.eot");
     src: url("https://jecassell.github.io/css/fonts/Porkys.woff") format("woff"),
          url("https://jecassell.github.io/css/fonts/Porkys.otf") format("opentype"),
