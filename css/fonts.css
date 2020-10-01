@@ -811,10 +811,10 @@
 
 @font-face {
     font-family: "subwayregular";
-    src: url("https://jecassell.github.io/font/subwayregular.eot");
-    src: url("https://jecassell.github.io/font/subwayregular.woff") format("woff"),
-         url("https://jecassell.github.io/font/subwayregular.otf") format("opentype"),
-         url("https://jecassell.github.io/font/subwayregular.svg#filename") format("svg");
+    src: url("https://jecassell.github.io/font/subway-black-webfont.eot");
+    src: url("https://jecassell.github.io/font/subway-black-webfont.woff") format("woff"),
+         url("https://jecassell.github.io/font/subway-black-webfont.otf") format("opentype"),
+         url("https://jecassell.github.io/font/subway-black-webfont.svg#filename") format("svg");
 }
 
 /* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
