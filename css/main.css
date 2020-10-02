@@ -594,7 +594,7 @@ Created by : mutationthemes
 }
  .block-tracklist .playlist li:before{
      content: "\e8d4";
-     font-family: "subwayregular";
+     font-family: "Socicon";
      position: absolute;
      left: 1.0625rem;
      top: 1.3rem;
